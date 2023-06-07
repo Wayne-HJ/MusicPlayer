@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://cloud-music-api-wayne.vercel.app/:match*"
+      "destination": "https://static.jianght.eu.org/music/:match*"
     }
   ]
 }
