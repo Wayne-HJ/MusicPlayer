@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://static.jianght.eu.org/music/:match*"
+      "destination": "http://192.9.165.139:8083/:match*"
     }
   ]
 }
